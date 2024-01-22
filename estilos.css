@@ -1,0 +1,14 @@
+h1{
+    color: #F7B787;
+    text-align: center;
+}
+
+p{
+    color: #527853;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#MiBoton{
+    background-color: #527853;
+    color: #F7B787;
+}
